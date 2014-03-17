@@ -1,0 +1,22 @@
+Problem Definition - Objectives
+
+Architecture
+- Diagram
+- Technial Insight
+
+Functions
+-Basic
+- Advanced
+
+Workflow
+
+Analysis
+- Complexity,Time
+Additional Features
+	- GUI (feedback, statistics (detailed))
+	- Storage (reliability(recovery),backup(dif format!)
+
+Conclusion 
+- future direction, possible features, limitations
+
+
